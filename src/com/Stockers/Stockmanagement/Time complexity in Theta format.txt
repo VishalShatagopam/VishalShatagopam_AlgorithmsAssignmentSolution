@@ -1,0 +1,24 @@
+Time complexity in theta format 
+No--> is the throshold peak
+scenario 1: Display the companies stock prices in ascending order
+21<=11n<=11n+1
+No >= 1
+which is O(nlogn) time complexity for best, worst and Average case
+
+Scenario 2: Display the companies stock prices in descending order
+21<=11n<=11n+1
+No >= 1
+which is O(nlogn) time complexity for best, worst and Average case
+
+Scenario 3:Display the total no of companies for which stock prices rose today
+Time complexity in theta form is  NA
+
+Scenario 4:Display the total no of companies for which stock prices declinetoday
+Time complexity in theta form is  NA
+
+Scenario5: Search a specific stock price
+22<=4n+18<=4n+22
+No >= 2
+which is O(nlogn) in worst case and Average case and O(1) in Best case.
+
+
